@@ -1,2 +1,3 @@
 # AutoSphere
-The project includes several sql scripts and another files from work period in company "Autosphere"
+The Autosphere company is a dealer of Volvo cars also they are providing car service. So, they regularly need to make the contract. First of all, my duties in this company oriented at the automatization of query for the contracts and reports (making dynamic document circulation). Secondary, I had tasks to improve or make a new report using consumers' (sales managers, directors, marketers, accountants) wish. Sometimes this was required requirements gathering and additional conversations with consumers. 
+The Git project includes several SQL scripts from work period in company "Autosphere"
